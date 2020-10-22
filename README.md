@@ -47,6 +47,7 @@ Save to drone_role.yaml then
 *kubectl apply -f drone_role.yaml*
 
 
+
 ```
 kind: Role
 apiVersion: rbac.authorization.k8s.io/v1
