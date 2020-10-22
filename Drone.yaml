@@ -21,4 +21,4 @@ steps:
       from_secret: docker_password
     repo: alexappd/drone
     tags:
-      - '1.0.1_unscripted'
+      - '1.0.2_unscripted'
